@@ -1,7 +1,7 @@
 # MusicasMissa
 
 Usar:
-- SQLite3
+- SQLite3: https://docs.python.org/3/library/sqlite3.html
 
 Fazer:
 - [ ] Base de Dados - ER
