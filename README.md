@@ -6,6 +6,8 @@
 Fazer:
    **Etapa 0:**
 - [ ] Base de Dados - ER
+   - [ ] Atualizar BD - adicionar historico (??)
+   - [ ] Adicionar letra à musica 
 - [ ] Criar requests
    - [ ] Adicionar musica
    - [ ] Buscar musica
