@@ -7,7 +7,9 @@ Fazer:
 **Etapa 0:**
 - [ ] Base de Dados - ER
 - [ ] Criar requests
-      - [ ]
+   - [ ] Adicionar musica
+   - [ ] Buscar musica
+   - [ ] Inserir lista de musicas domingo (nao esquecer colocar no historico) 
 **Etapa 1:** 
 - [ ] Inserir dados na Base de Dados
    - [ ] Ver como ficheiros do OpenLP funcionam
