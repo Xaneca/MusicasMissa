@@ -6,10 +6,13 @@
 Fazer:
    **Etapa 0:**
 - [ ] Base de Dados - ER
-   - [ ] Atualizar BD - adicionar historico (??)
-   - [ ] Adicionar letra à musica 
+   - [X] Inicializar BD
+   - [ ] Limpar BD - musicas repetidas e partituras erradas
+   - [ ] Adicionar letra à musica
+   - [ ] 
 - [ ] Criar requests
-   - [ ] Adicionar musica
+   - [X] Adicionar musica
+   - [X] Ver ifos musica e partitura
    - [ ] Buscar musica
    - [ ] Inserir lista de musicas domingo (nao esquecer colocar no historico)
   
